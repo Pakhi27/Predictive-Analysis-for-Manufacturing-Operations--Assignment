@@ -117,15 +117,15 @@ Best Accuracy Achieved: 95.06% using XGBoost.
 ## Folder Structure
 ```
 .
-├── app.py                # Flask application
-├── requirements.txt      # Dependencies
+├── app.py
+├── requirements.txt
 ├── dataset
-│   └── manufacturing_data.csv  # Sample dataset
+│   └── manufacturing_data.csv
 ├── models
-│   └── model.pkl         # Trained model
+│   └── model.pkl
 ├── static
-│   └── plots             # Visualization outputs
-└── README.md             # Documentation
+│   └── plots
+└── README.md
 ```
 
 ---
