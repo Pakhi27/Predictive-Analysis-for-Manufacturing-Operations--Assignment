@@ -1,6 +1,6 @@
-Predictive Analysis for Manufacturing Operations
+## Predictive Analysis for Manufacturing Operations
 
-Objective
+## Objective
 This project aims to develop a RESTful API to predict machine downtime or production defects using a manufacturing dataset. The system supports operations such as data upload, model training, and making predictions.
 
 ---
